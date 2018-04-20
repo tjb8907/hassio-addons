@@ -3,6 +3,7 @@ mqtt:
   preface: {{preface}}
   state_suffix: {{state_suffix}}
   command_suffix: {{command_suffix}}
+  retain: {{retain}}
   username: {{login}}
   password: {{password}}
 port: {{bridge_port}}
